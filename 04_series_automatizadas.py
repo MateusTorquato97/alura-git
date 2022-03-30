@@ -15,6 +15,8 @@ import tmdbsimple as tmdb
 search = tmdb.Search()
 ia = IMDb()
 
+print('teste')
+
 tmdb.API_KEY = '31d8c5dee3141d702e6d6c1f4a110d5f'
 os.system('cls' if os.name == 'nt' else 'clear')
 
